@@ -1,0 +1,8 @@
+src/__pycache__
+__pycache__/
+*.pyc
+
+venv
+alembic/
+.env
+alembic.ini
